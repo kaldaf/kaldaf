@@ -1,4 +1,29 @@
-### Hi there 👋
+```javascript
+Person me = new Person();
+
+while(me.Alive()){
+	sayHello();
+}
+
+function sayHello(){
+	console.log("Hello!");
+}
+
+skills: string[] = [' JAVASCRIPT ',' C# ', ' MSSQL '];
+
+skills.push(' TYPESCRIPT ');
+
+stack: string[] = [' ANGULAR ', ' VUE ', ' STRAPI ', ' GRAPHQL ', ' .NET CORE ' ].
+
+```
+
+[LinkedIn](https://linkedin.com/in/kalousek) •
+[Website](https://filipkalousek.cz) •
+[Company](https://twentio.cz) •
+[Instagram](https://instagram.com/kalousekf)
+
+![](https://twentio.cz/assets/images/img_twentio_share.jpg)
+
 
 <!--
 **kaldaf/kaldaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
