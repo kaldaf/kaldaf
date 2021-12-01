@@ -1,15 +1,15 @@
 ```javascript
 Person me = new Person();
 
-while(me.Alive()){
-	sayHello();
+while(me.Alive){
+	me.WakeUp();
+	me.Code();
+	me.Eat();
+	me.Code();
+	me.Sleep();
 }
 
-function sayHello(){
-	console.log("Hello!");
-}
-
-skills: string[] = [' JAVASCRIPT ',' C# ', ' MSSQL '];
+skills: string[] = [' JAVASCRIPT ',' C# ', ' MSSQL ',' SCSS ',' HTML '];
 
 skills.push(' TYPESCRIPT ');
 
