@@ -17,10 +17,10 @@ stack: string[] = [' ANGULAR ', ' VUE ', ' STRAPI ', ' GRAPHQL ', ' .NET CORE ' 
 
 ```
 
-[LinkedIn](https://linkedin.com/in/kalousek) •
-[Website](https://filipkalousek.cz) •
-[Company](https://twentio.cz) •
-[Instagram](https://instagram.com/kalousekf)
+[in](https://linkedin.com/in/kalousek) •
+[www](https://filipkalousek.cz) •
+[biz](https://twentio.cz) •
+[ig](https://instagram.com/kalousekf)
 
 ![](https://twentio.cz/assets/images/img_twentio_share.jpg)
 
