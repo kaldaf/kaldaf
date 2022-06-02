@@ -13,7 +13,7 @@ skills: string[] = [' JAVASCRIPT ',' C# ', ' MSSQL ',' SCSS ',' HTML '];
 
 skills.push(' TYPESCRIPT ');
 
-stack: string[] = [' ANGULAR ', ' VUE ', ' STRAPI ', ' GRAPHQL ', ' .NET CORE ' ].
+stack: string[] = [' ANGULAR ', ' VUE ', ' DENO ', ' .NET CORE ' ].
 
 ```
 
