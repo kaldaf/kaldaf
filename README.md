@@ -1,11 +1,14 @@
 ```typescript
-stack: string[] = [' ANGULAR ', ' VUE ', ' DENO ', ' .NET CORE ' ].
+stack: string[] = [' ANGULAR ', ' VUE ', ' DENO ', ' Fresh ', ' .NET CORE ' ].
 ```
 
-[linkedin](https://linkedin.com/in/kalousek) •
-[web](https://filipkalousek.cz) •
-[company](https://twentio.cz) •
-[instagram](https://instagram.com/kalousekf)
+- [linkedin 🔗](https://linkedin.com/in/kalousek)
+- [portfolio 📄](https://filipkalousek.cz)
+- [blog 📝](https://blog.filipkalousek.cz)
+- [twentio 👨‍💻](https://twentio.cz)
+- [goodsailors ⛵](https://goodsailors.cz/)
+
+🔭 currently working on [fyp ~ for you page](fyp.cz)
 
 ![](https://twentio.cz/assets/images/img_twentio_share.jpg)
 
