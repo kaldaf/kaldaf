@@ -8,7 +8,9 @@ stack: string[] = [' ANGULAR ', ' VUE ', ' DENO ', ' Fresh ', ' .NET CORE ' ].
 - [twentio 👨‍💻](https://twentio.cz)
 - [goodsailors ⛵](https://goodsailors.cz/)
 
-🔭 currently working on [fyp ~ for you page](https://fyp.cz)
+🔭 currently working on:
+- [fyp ~ for you page](https://fyp.cz)
+- [redact x](https://twentio.cz/redact-x)
 
 ![](https://twentio.cz/assets/images/img_twentio_share.jpg)
 
