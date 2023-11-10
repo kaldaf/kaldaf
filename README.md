@@ -1,5 +1,5 @@
 ```typescript
-stack: string[] = [' ANGULAR ', ' VUE ', ' DENO ', ' Fresh ', ' .NET CORE ' ].
+stack: string[] = [' Angular ', ' Vue ', ' Deno ', ' Fresh ', ' MongoDB ', ' PostgreSQL '].
 ```
 
 - [linkedin 🔗](https://linkedin.com/in/kalousek)
