@@ -6,7 +6,6 @@ stack: string[] = [' Angular ', ' Vue ', ' Deno ', ' Fresh ', ' MongoDB ', ' Pos
 - [portfolio 📄](https://filipkalousek.cz)
 - [blog 📝](https://blog.filipkalousek.cz)
 - [twentio 👨‍💻](https://twentio.cz)
-- [goodsailors ⛵](https://goodsailors.cz/)
 
 🔭 currently working on:
 - [fyp ~ for you page](https://fyp.cz)
